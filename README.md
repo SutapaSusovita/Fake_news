@@ -152,7 +152,4 @@ This project uses publicly available datasets from Kaggle. Please refer to Kaggl
 
 For questions or suggestions, please open an issue on the GitHub repository.
 
----
 
-**Last Updated**: 2026  
-**Status**: Active Development
